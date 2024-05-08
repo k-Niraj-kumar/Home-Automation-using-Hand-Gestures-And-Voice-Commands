@@ -1,4 +1,4 @@
-#Home Automation using Hand Gestures and Voice Commands
+Home Automation using Hand Gestures and Voice Commands
 
 
 This project aims to provide a hands-free way to control home appliances using hand gestures and voice commands. It utilizes computer vision techniques with OpenCV and the cvzone library to detect hand gestures, and the Whisper speech recognition model to understand voice commands. The project also includes an Arduino Uno board to control the connected appliances.
@@ -26,21 +26,13 @@ Integration with Arduino Uno for hardware control
 
 Requirements
 
-
-Python 3.x
-
-OpenCV
-
-cvzone
-
-PyFirmata
-
-SpeechRecognition
-
-pydub
-
-faster_whisper
-
-Arduino Uno board
+* Python 3.x
+* OpenCV
+* cvzone
+* PyFirmata
+* SpeechRecognition
+* pydub
+* faster_whisper
+* Arduino Uno board
 
 
