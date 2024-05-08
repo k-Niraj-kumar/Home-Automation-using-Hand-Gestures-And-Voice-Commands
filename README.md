@@ -16,17 +16,31 @@ The project demonstrates the integration of various technologies, including comp
 Features
 
 Control lights, fans, and TV using hand gestures
+
 Voice command recognition for turning appliances on/off
+
 Real-time hand tracking and gesture detection
+
 Integration with Arduino Uno for hardware control
+
 
 Requirements
 
+
 Python 3.x
+
 OpenCV
+
 cvzone
+
 PyFirmata
+
 SpeechRecognition
+
 pydub
+
 faster_whisper
+
 Arduino Uno board
+
+
