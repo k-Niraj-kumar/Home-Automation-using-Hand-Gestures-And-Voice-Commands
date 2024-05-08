@@ -12,3 +12,21 @@ The home automation system combines computer vision and speech recognition techn
 The system is built using Python and OpenCV for computer vision tasks, the cvzone library for hand tracking and gesture detection, and the Whisper model for speech recognition. The recognized gestures and voice commands are then translated into instructions and sent to an Arduino Uno board, which is responsible for controlling the connected appliances, such as lights, fans, and TVs.
 
 The project demonstrates the integration of various technologies, including computer vision, speech recognition, and hardware control, to create a seamless and intelligent home automation solution.
+
+Features
+
+Control lights, fans, and TV using hand gestures
+Voice command recognition for turning appliances on/off
+Real-time hand tracking and gesture detection
+Integration with Arduino Uno for hardware control
+
+Requirements
+
+Python 3.x
+OpenCV
+cvzone
+PyFirmata
+SpeechRecognition
+pydub
+faster_whisper
+Arduino Uno board
